@@ -15,7 +15,7 @@ HLC test wallet has released, welcome to download, use and feedback to us. If yo
 #### downloads:
 <font color=#008000>If you are an Android phone, please use the browser to open this page to download</font>
 
-* iOS: It is being reviewed by apple.
+* iOS: https://testflight.apple.com/join/udmRzCln
 * android:  https://github.com/hlcfans/wallet-test/releases/download/v0.3.9-alapha/wallet.apk
 
 You can also view the release history on the [release page](https://github.com/hlcfans/wallet-test/releases)
